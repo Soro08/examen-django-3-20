@@ -3,7 +3,7 @@
 Vous être `développeur back-end python` dans une entreprise de création d'application.
 On vous soumet le template suivant https://colorlib.com/wp/template/andrea/.
 
-La cliente demande un site professionnel pour cela, votre boss vous demande à l'équipe `front-end` de dynamiser le site avec `Vue Js`. 
+La cliente demande un site professionnel pour cela, votre boss demande à l'équipe `front-end` de dynamiser le site avec `Vue Js`. 
 Il vous faut une `API`.
 
 Pour la rapidité du site de la dame, l'équipe `front-end` opte pour l'utilisation de `graphQl`.
