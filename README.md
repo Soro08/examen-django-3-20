@@ -20,11 +20,15 @@ Bonne chance à vous.
 Barême:
 ```
 
-   Models 15
-   Admin 10
+   composition: (3h30)
+   Models +15
+   Admin +10
 
-   Graphql 30
-   API 20
+   Graphql +30
+   API +20
+   
+   Bonus (2h) :
+      - dynamisation django  + 25 
 
 NOTE PARRAIN DJANGO ( 70 %)
 
