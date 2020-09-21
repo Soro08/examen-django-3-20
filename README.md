@@ -13,6 +13,7 @@ Après le développement, Mme Adrea demande à avoir une version mobile.
 Le comble le `dev mobile` disponible, ne maîtrise pas la consommation `d'API par graphQl` on vous demande alors de mettre en place une `API REST`.
 
 
+NB: vous devriez heberger le projet sur heroku
 
 Bonne chance à vous.
 
